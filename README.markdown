@@ -41,4 +41,3 @@ using the 'success_dir' and 'failure_dir' options.
     end
     
     threads.each { |x| x.join }
-
